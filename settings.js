@@ -14,7 +14,7 @@ global.ownerName = 'BayXZ'
 global.packname = 'SyinXD'
 global.author = 'SyinXD'
 global.prefa = ['','!','.'/'#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'session'
+global.sessionName = 'session.json'
 
 //Message Nya Ubah Disini
 global.mess = {
