@@ -1,8 +1,8 @@
 /**
-   * Made By Fandyyy 🕴️
-   * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
-   * Follow https://github.com/FBOTZ-YT
+   * Made By bayxz 🕴️
+   * Subscribe BayXZ YT
+   * Follow -
+   * Follow -
 */
 
 //Module 
